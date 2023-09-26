@@ -132,13 +132,14 @@ blockquote {
 	min-height: 100%;
 	width: 100%;
 }
+/* 이미지 필터 적용 */
 .banner:after {
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(74, 4, 38, 0.53);
+	background-color: rgba(84, 20, 167, 0);
 	content: "";
 }
 .banner-caption {
